@@ -1,0 +1,16 @@
+PODS:
+  - LYBLib (0.1.0)
+
+DEPENDENCIES:
+  - LYBLib (from `../`)
+
+EXTERNAL SOURCES:
+  LYBLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LYBLib: '021872d1efdb304b5be975e66d4a2f6db5a57de6'
+
+PODFILE CHECKSUM: a7a7e18c84a774305b6f2896d2e5080f23d827ed
+
+COCOAPODS: 1.2.1

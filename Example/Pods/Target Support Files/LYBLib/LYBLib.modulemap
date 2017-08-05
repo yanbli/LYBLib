@@ -1,0 +1,6 @@
+framework module LYBLib {
+  umbrella header "LYBLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
