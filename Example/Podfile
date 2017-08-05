@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LYBLib_Example' do
+  pod 'LYBLib', :path => '../'
+
+  target 'LYBLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
